@@ -1,0 +1,11 @@
+C:\Users\cagda\Desktop\MarsRover_Sample\MarsRover_Sample\bin\Debug\netcoreapp3.0\MarsRover_Sample.exe
+C:\Users\cagda\Desktop\MarsRover_Sample\MarsRover_Sample\bin\Debug\netcoreapp3.0\MarsRover_Sample.deps.json
+C:\Users\cagda\Desktop\MarsRover_Sample\MarsRover_Sample\bin\Debug\netcoreapp3.0\MarsRover_Sample.runtimeconfig.json
+C:\Users\cagda\Desktop\MarsRover_Sample\MarsRover_Sample\bin\Debug\netcoreapp3.0\MarsRover_Sample.runtimeconfig.dev.json
+C:\Users\cagda\Desktop\MarsRover_Sample\MarsRover_Sample\bin\Debug\netcoreapp3.0\MarsRover_Sample.dll
+C:\Users\cagda\Desktop\MarsRover_Sample\MarsRover_Sample\bin\Debug\netcoreapp3.0\MarsRover_Sample.pdb
+C:\Users\cagda\Desktop\MarsRover_Sample\MarsRover_Sample\obj\Debug\netcoreapp3.0\MarsRover_Sample.csprojAssemblyReference.cache
+C:\Users\cagda\Desktop\MarsRover_Sample\MarsRover_Sample\obj\Debug\netcoreapp3.0\MarsRover_Sample.AssemblyInfoInputs.cache
+C:\Users\cagda\Desktop\MarsRover_Sample\MarsRover_Sample\obj\Debug\netcoreapp3.0\MarsRover_Sample.AssemblyInfo.cs
+C:\Users\cagda\Desktop\MarsRover_Sample\MarsRover_Sample\obj\Debug\netcoreapp3.0\MarsRover_Sample.dll
+C:\Users\cagda\Desktop\MarsRover_Sample\MarsRover_Sample\obj\Debug\netcoreapp3.0\MarsRover_Sample.pdb
